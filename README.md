@@ -1,2 +1,2 @@
-# .github
-Home of the Shadowmere organization
+# shadowmere.xyz
+A list of shadowsocks proxies.
